@@ -1,8 +1,16 @@
 ﻿文件：C:\迅雷下载\新建文件夹\lenovo_accessories_and_display_manager_v2_0_1_1_setup.exe
+类型：EXTRACT
+架构：
+命中：
+导入 API：
+上下文：
+备注：7-Zip 解包完成。退出代码：0
+
+文件：C:\迅雷下载\新建文件夹\lenovo_accessories_and_display_manager_v2_0_1_1_setup.exe
 类型：EXE
 架构：x86
-命中：MStar/TSUM；固件/ISP；USB/Bulk/HID；SPI/I²C；设备访问 API
-导入 API：kernel32.dll
-上下文：0xCD7: DisposeOf || 0x1296: Dispatch || 0x17F6: TMonitor.TSpinLock || 0x18E3: FSpinCount || 0x1925: SetSpinCount || 0x194D: ASpinCount || 0x1B1E: IDispatch || 0x208D: VDispatch || 0x16097: EObjectDisposed || 0x160AE: EObjectDisposed || 0x163BC: TimeAMString || 0x163D4: TimePMString || 0x228AA: TFileCreateDisposition || 0x22E3C: ACreateDisposition || 0x25460: cmStored || 0x25A40: UninstallDisplayName || 0x25A60: UninstallDisplayIcon || 0x260E8: UninstallDisplaySize
-备注：检测到 PE 文件
+命中：isp, spi, setupdi, writefile, readfile, createfile, hid, usb, i2c, tsum, bulk
+导入 API：kernel32.dll, comctl32.dll, user32.dll, oleaut32.dll, netapi32.dll, advapi32.dll
+上下文：0xCD7: DisposeOf || 0x1296: Dispatch || 0x17F6: TMonitor.TSpinLock || 0x18E3: FSpinCount || 0x1925: SetSpinCount || 0x194D: ASpinCount || 0x1B1E: IDispatch || 0x208D: VDispatch || 0x16097: EObjectDisposed || 0x160AE: EObjectDisposed || 0x228AA: TFileCreateDisposition || 0x22E3C: ACreateDisposition || 0x25542: TSetupDisablePage || 0x25A40: UninstallDisplayName || 0x25A60: UninstallDisplayIcon || 0x260E8: UninstallDisplaySize || 0x27F43: EVariantDispatchError\ || 0x27F5E: EVariantDispatchError4 || 0x32FEF: IsPublicType || 0x33E2E: TDispatchKind || 0x34C37: DispatchKind || 0x64B87: ifDispInterface || 0x64B97: ifDispatch || 0x6C853: DisplayName || 0x7388F: SpinWait || 0xAAE7E: WriteFile || 0xABB02: DispatchMessageW || 0xABBB4: WriteFile || 0xABD20: ReadFile || 0xAC04C: CreateFileW || 0xBBF20: <file  name="sspicli.dll"  loadFrom="%SystemRoot%\System32\" /> || 0xED5AF: hIDh`;a || 0xFAE5D: hIdt6 || 0x182442: mUSb>t7 || 0x2986B7: gisp || 0x5E555B: JXiSP || 0x64242F: MUSbj || 0x6E2129: NhidP| || 0x789493: Isp3,
+备注：
 
