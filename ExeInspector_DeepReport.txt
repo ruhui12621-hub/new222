@@ -4,13 +4,181 @@
 命中：
 导入 API：
 上下文：
-备注：7-Zip 解包完成。退出代码：0
+备注：7-Zip 解包完成，退出代码：0；提取文件数：20
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518
+类型：SUMMARY
+架构：
+命中：
+导入 API：
+上下文：
+备注：解包目录文件数：20；本次总扫描文件数：21
 
 文件：C:\迅雷下载\新建文件夹\lenovo_accessories_and_display_manager_v2_0_1_1_setup.exe
-类型：EXE
+类型：PE
 架构：x86
-命中：isp, spi, setupdi, writefile, readfile, createfile, hid, usb, i2c, tsum, bulk
+命中：bulk, createfile, hid, i2c, isp, readfile, setupdi, spi, tsum, usb, writefile
 导入 API：kernel32.dll, comctl32.dll, user32.dll, oleaut32.dll, netapi32.dll, advapi32.dll
-上下文：0xCD7: DisposeOf || 0x1296: Dispatch || 0x17F6: TMonitor.TSpinLock || 0x18E3: FSpinCount || 0x1925: SetSpinCount || 0x194D: ASpinCount || 0x1B1E: IDispatch || 0x208D: VDispatch || 0x16097: EObjectDisposed || 0x160AE: EObjectDisposed || 0x228AA: TFileCreateDisposition || 0x22E3C: ACreateDisposition || 0x25542: TSetupDisablePage || 0x25A40: UninstallDisplayName || 0x25A60: UninstallDisplayIcon || 0x260E8: UninstallDisplaySize || 0x27F43: EVariantDispatchError\ || 0x27F5E: EVariantDispatchError4 || 0x32FEF: IsPublicType || 0x33E2E: TDispatchKind || 0x34C37: DispatchKind || 0x64B87: ifDispInterface || 0x64B97: ifDispatch || 0x6C853: DisplayName || 0x7388F: SpinWait || 0xAAE7E: WriteFile || 0xABB02: DispatchMessageW || 0xABBB4: WriteFile || 0xABD20: ReadFile || 0xAC04C: CreateFileW || 0xBBF20: <file  name="sspicli.dll"  loadFrom="%SystemRoot%\System32\" /> || 0xED5AF: hIDh`;a || 0xFAE5D: hIdt6 || 0x182442: mUSb>t7 || 0x2986B7: gisp || 0x5E555B: JXiSP || 0x64242F: MUSbj || 0x6E2129: NhidP| || 0x789493: Isp3,
-备注：
+上下文：0xCD7: DisposeOf || 0x1296: Dispatch || 0x17F6: TMonitor.TSpinLock || 0x18E3: FSpinCount || 0x1925: SetSpinCount || 0x194D: ASpinCount || 0x1B1E: IDispatch || 0x208D: VDispatch || 0x16097: EObjectDisposed || 0x160AE: EObjectDisposed || 0x228AA: TFileCreateDisposition || 0x22E3C: ACreateDisposition || 0x25542: TSetupDisablePage || 0x25A40: UninstallDisplayName || 0x25A60: UninstallDisplayIcon || 0x260E8: UninstallDisplaySize || 0x27F43: EVariantDispatchError\ || 0x27F5E: EVariantDispatchError4 || 0x32FEF: IsPublicType || 0x33E2E: TDispatchKind || 0x34C37: DispatchKind || 0x64B87: ifDispInterface || 0x64B97: ifDispatch || 0x6C853: DisplayName || 0x7388F: SpinWait || 0xAAE7E: WriteFile || 0xABB02: DispatchMessageW || 0xABBB4: WriteFile || 0xABD20: ReadFile || 0xAC04C: CreateFileW || 0xBBF20: <file  name="sspicli.dll"  loadFrom="%SystemRoot%\System32\" /> || 0xED5AF: hIDh`;a || 0xFAE5D: hIdt6 || 0x182442: mUSb>t7 || 0x2986B7: gisp || 0x5E555B: JXiSP || 0x64242F: MUSbj || 0x6E2129: NhidP| || 0x789493: Isp3, || 0x7D51FF: HIdFv || 0x95699E: WHiD || 0x96BF28: 3ISp || 0xCA6505: spi:4 || 0xDEDCDF: uSbavw || 0x101D6EC: oSpi$[ || 0x10564A3: IspC || 0x11C123F: KuSB || 0x13F71FB: fusB || 0x14A6442: uSB8etIY || 0x1623469: hidRdu\ || 0x169AF5F: Spi'/jl || 0x183BDD7: ]uSB || 0x187FD52: *XhiD || 0x18AD962: iSpU || 0x18C3AA6: 1z KisPp || 0x18FBF5E: EHIdy || 0x1916A02: IsP4 || 0x1AE09AE: sPim || 0x1B33185: U8iSp^
+备注：文件大小：371,609,848 字节
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.bss
+类型：BSS
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：0 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.data
+类型：DATA
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：13,740 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.didata
+类型：DIDATA
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：4,038 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.edata
+类型：EDATA
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：154 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.idata
+类型：IDATA
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：1,962 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.itext
+类型：ITEXT
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：5,740 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.rdata
+类型：RDATA
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：93 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.rsrc_1
+类型：RSRC_1
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：176 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.rsrc\0\RCDATA\11111
+类型：DATA
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：44 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.rsrc\0\RCDATA\DVCLAL
+类型：DATA
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：16 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.rsrc\0\RCDATA\PACKAGEINFO
+类型：DATA
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：708 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.rsrc\0\string.txt
+类型：TXT
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：10,388 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.rsrc\1033\GROUP_ICON\MAINICON
+类型：DATA
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：20 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.rsrc\1033\ICON\1
+类型：DATA
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：51,351 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.rsrc\1033\MANIFEST\1
+类型：DATA
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：2,688 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.rsrc\1033\version.txt
+类型：TXT
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：2,130 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.text
+类型：TEXT
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：677,592 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\.tls
+类型：TLS
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：0 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\[0]
+类型：DATA
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：370,827,680 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
+
+文件：C:\Users\admin\AppData\Local\Temp\ExeInspector_cb75bec4e6df4295bf8c9497504aa518\CERTIFICATE
+类型：DATA
+架构：
+命中：
+导入 API：
+上下文：
+备注：文件大小：10,584 字节；非标准 PE 文件，已列入报告，未进行 PE 分析
 
